@@ -17,11 +17,6 @@ This project is a Python script that fetches real-time stock market data from th
 •	Stores market data in a dictionary for easy access.
 
 
-
-
-
-
-
 **TECHOLOGIES USED:**
 
 •	Python
