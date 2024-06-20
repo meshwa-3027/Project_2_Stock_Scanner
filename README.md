@@ -18,6 +18,10 @@ This project is a Python script that fetches real-time stock market data from th
 
 
 
+
+
+
+
 **TECHOLOGIES USED:**
 
 •	Python
