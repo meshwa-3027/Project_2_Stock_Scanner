@@ -4,7 +4,7 @@ This project is a Python script that fetches real-time stock market data from th
 
 **FEATURES**
 
-•	Fetches real-time stock market data from the Alice Blue trading platform.
+•	Fetches real-time stock market data from the Alice Blue trading platform./n
 •	Supports multiple stocks from different exchanges.
 •	Displays the fetched data in an Excel sheet.
 •	Continuously updates the Excel sheet with the latest market data.
